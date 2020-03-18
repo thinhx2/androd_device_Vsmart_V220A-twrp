@@ -1,0 +1,1 @@
+# androd_device_Vsmart_V220A-twrp
